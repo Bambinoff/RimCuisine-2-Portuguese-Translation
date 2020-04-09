@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>RimCuisine 2 (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradRC2Core</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>Crustypeanut.RC2.Core</packageId>
+            <displayName>RimCuisine 2</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1833592062</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Crustypeanut.RC2.Core</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "RimCuisine 2 " criado por Crustypeanut.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ RimCuisine 2 Core deve estar listado na lista de mods antes da tradução em português.
+</description>
+</ModMetaData>

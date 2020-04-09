@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	== Grains ==
+  
+  <RC2_PlantSorghum.label>planta de sorgo</RC2_PlantSorghum.label>
+  <RC2_PlantSorghum.description>Uma grama que ama o calor com um grão comestivel. Muito popular entre tribos e colônias que habitam o deserto, e leva bastante bem a maioria dos solos.</RC2_PlantSorghum.description>
+	
+	== Vegetables ==
+  
+  <RC2_PlantTomato.label>planta de tomate</RC2_PlantTomato.label>
+  <RC2_PlantTomato.description>Este bulbo vermelho brilhante é fruto de uma variedade mortal de plantas venenosas. Felizmente, a fruta não é venenosa e é realmente deliciosa, especialmente quando cozida em molho ou transformada em ketchup. Embora seja uma fruta, o tomate é classificado como vegetal pelos chefs. Eles não sabem nada. Gosta de climas temperados.</RC2_PlantTomato.description>
+	
+  <RC2_PlantTomatoHydro.label>planta de tomate</RC2_PlantTomatoHydro.label>
+  <RC2_PlantTomatoHydro.description>Este bulbo vermelho brilhante é fruto de uma variedade mortal de plantas venenosas. Felizmente, a fruta não é venenosa e é realmente deliciosa, especialmente quando cozida em molho ou transformada em ketchup. Embora seja uma fruta, o tomate é classificado como vegetal pelos chefs. Eles não sabem nada. Gosta de climas temperados.</RC2_PlantTomatoHydro.description>
+	
+  <RC2_PlantYam.label>planta de inhame</RC2_PlantYam.label>
+  <RC2_PlantYam.description>Este tubérculo terroso é semelhante a batata, mas não. Alguns usam o nome por engano para se referir a batata-doce (não é). Ao contrário de seu parente, a batata, o inhame só cresce bem em climas quentes e úmidos.</RC2_PlantYam.description>
+    
+  <RC2_PlantYamHydro.label>planta de inhame</RC2_PlantYamHydro.label>
+  <RC2_PlantYamHydro.description>Este tubérculo terroso é semelhante a batata, mas não. Alguns usam o nome por engano para se referir a batata-doce (não é). Ao contrário de seu parente, a batata, o inhame só cresce bem em climas quentes e úmidos.</RC2_PlantYamHydro.description>
+   
+  <RC2_PlantAsparagus.label>broto de aspargo</RC2_PlantAsparagus.label>
+  <RC2_PlantAsparagus.description>Um pequeno broto de crescimento rápido, cujos caules jovens são usados como vegetais. Uma planta versátil que cresce em qualquer lugar, exceto em regiões tropicais.</RC2_PlantAsparagus.description>
+     
+  <RC2_AsparagusBaseHydro.label>broto de aspargo</RC2_AsparagusBaseHydro.label>
+  <RC2_AsparagusBaseHydro.description>Um pequeno broto de crescimento rápido, cujos caules jovens são usados como vegetais. Uma planta versátil que cresce em qualquer lugar, exceto em regiões tropicais.</RC2_AsparagusBaseHydro.description>
+    
+  <RC2_PlantMushroom.label>cogumelos comuns</RC2_PlantMushroom.label>
+  <RC2_PlantMushroom.description>Um pequeno cogumelo branco que é cultivado há milhares de anos. Não requer luz para crescer, mas não morre quando exposto a ela. As variações existem a tal ponto que são encontradas em todos os climas.</RC2_PlantMushroom.description>
+		
+  <RC2_PlantMushroomHydro.label>cogumelos comuns</RC2_PlantMushroomHydro.label>
+  <RC2_PlantMushroomHydro.description>Um pequeno cogumelo branco que é cultivado há milhares de anos. Não requer luz para crescer, mas não morre quando exposto a ela. As variações existem a tal ponto que são encontradas em todos os climas.</RC2_PlantMushroomHydro.description>
+		
+  <RC2_PlantEggPlant.label>planta de berinjela</RC2_PlantEggPlant.label>
+  <RC2_PlantEggPlant.description>Essas frutas esponjosas são tecnicamente bagas, mas, use-as como uma baga, e você terá um mau momento. Em vez disso, eles são usados de maneira semelhante aos vegetais. Crescido em climas temperados e tropicais.</RC2_PlantEggPlant.description>
+    
+	== Fruits ==
+   
+  <RC2_PlantAgave.label>agave</RC2_PlantAgave.label>
+  <RC2_PlantAgave.description>Uma planta do deserto de folhas grandes, com flores e talos comestiveis. Esta variante é mais capaz de ser domada, embora ainda possa ser cultivada apenas em regiões áridas.</RC2_PlantAgave.description>  
+   
+  <RC2_PlantPumpkin.label>planta de abóbora</RC2_PlantPumpkin.label>
+  <RC2_PlantPumpkin.description>Uma planta vinha que cresce ao longo do solo. Produz abóboras grandes e suculentas. Demora um pouco para crescer. Não reage bem a climas mais frios, mas pode ser cultivado em clima temperado, tropical e árido.</RC2_PlantPumpkin.description>
+		
+	== Non-Food ==
+  
+  <RC2_PlantSugarcane.label>planta de cana de açúcar</RC2_PlantSugarcane.label>
+  <RC2_PlantSugarcane.description>Esta grama alta tem talos que, quando processados, criam um delicioso açúcar, ideal para arruinar os dentes. Também usado para fazer rum! Por que o rum sempre se foi? Cultivado apenas em regiões tropicais.</RC2_PlantSugarcane.description>
+		
+  
+</LanguageData>

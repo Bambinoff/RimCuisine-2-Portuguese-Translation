@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_CaffeineHigh.stages.0.label>mais animado</RC2_CaffeineHigh.stages.0.label>
+  <RC2_CaffeineHigh.stages.0.description>A cafeina é a melhor escolha!</RC2_CaffeineHigh.stages.0.description>
+  <RC2_CaffeineHigh.stages.1.label>ligado</RC2_CaffeineHigh.stages.1.label>
+  <RC2_CaffeineHigh.stages.1.description>Que correria!</RC2_CaffeineHigh.stages.1.description>
+  <RC2_CaffeineHigh.stages.2.label>ansiedade</RC2_CaffeineHigh.stages.2.label>
+  <RC2_CaffeineHigh.stages.2.description>Isso foi muita cafeina. Minhas mãos estão começando a tremer.</RC2_CaffeineHigh.stages.2.description>
+  <RC2_CaffeineHigh.stages.3.label>sobrecarga</RC2_CaffeineHigh.stages.3.label>
+  <RC2_CaffeineHigh.stages.3.description>Palmas das mãos suadas, joelhos fracos, braços pesados, espaguete da mãe!</RC2_CaffeineHigh.stages.3.description>
+
+  <RC2_CaffeineWithdrawal.stages.1.label>abstinência de cafeina</RC2_CaffeineWithdrawal.stages.1.label>
+  <RC2_CaffeineWithdrawal.stages.1.description>Ugh, eu preciso de cafeina. Minha cabeça dói, é dificil se concentrar e todo mundo só precisa parar de fazer tanto barulho.</RC2_CaffeineWithdrawal.stages.1.description>
+
+
+</LanguageData>

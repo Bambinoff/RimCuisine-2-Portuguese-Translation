@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_RawOats.label>aveia</RC2_RawOats.label>
+  <RC2_RawOats.description>Aveia crua. Muito bom para cozinhar, assar e lanches!</RC2_RawOats.description>
+
+  <RC2_RawQuinoa.label>quinoa</RC2_RawQuinoa.label>
+  <RC2_RawQuinoa.description>Quinoa crua. Esta substância exótica, semelhante ao arroz, é apreciada por suas qualidades saudáveis. Ou assim diriam os especialistas. Eles sabem melhor, certo?</RC2_RawQuinoa.description>
+
+  <RC2_RawBarley.label>cevada</RC2_RawBarley.label>
+  <RC2_RawBarley.description>Cevada crua. Este grão resistente é usado em farinha e sopas, mas também é o ingrediente principal da cerveja.</RC2_RawBarley.description>
+
+  <RC2_RawSorghum.label>sorgo</RC2_RawSorghum.label>
+  <RC2_RawSorghum.description>Sorgo cru. Este grão saudável pode ser cozido semelhante ao arroz ou moido em farinha.</RC2_RawSorghum.description>
+
+  <RC2_RawOnion.label>cebola</RC2_RawOnion.label>
+  <RC2_RawOnion.description>Cebola crua. Bulbos saborosos, cujas camadas são descascadas. Uma delicia com manteiga.</RC2_RawOnion.description>
+
+  <RC2_RawTomato.label>tomate</RC2_RawTomato.label>
+  <RC2_RawTomato.description>Tomates crus. Perfeito para molhos!</RC2_RawTomato.description>
+
+  <RC2_RawSoybean.label>soja</RC2_RawSoybean.label>
+  <RC2_RawSoybean.description>Soja crua. Usado em sopas e pratos, mas também se transformou em um substituto de carne.</RC2_RawSoybean.description>
+
+  <RC2_RawChickpeas.label>grão de bico</RC2_RawChickpeas.label>
+  <RC2_RawChickpeas.description>Grão de bico cru. Leguminosas ricas em proteinas que fazem um ótimo homus!</RC2_RawChickpeas.description>
+
+  <RC2_RawTruffles.label>trufa</RC2_RawTruffles.label>
+  <RC2_RawTruffles.description>Trufas cruas. Muito favorecido pelos comerciantes devido a sua raridade e sabor.</RC2_RawTruffles.description>
+
+  <RC2_RawCabbages.label>repolho</RC2_RawCabbages.label>
+  <RC2_RawCabbages.description>Repolho cruas. Excelente em uma variedade de pratos, mas relativamente sem graça por si só.</RC2_RawCabbages.description>
+
+  <RC2_RawCarrots.label>cenoura</RC2_RawCarrots.label>
+  <RC2_RawCarrots.description>Cenouras cruas. Excelente em uma variedade de pratos e saudável também!</RC2_RawCarrots.description>
+
+  <RC2_RawBeets.label>beterraba</RC2_RawBeets.label>
+  <RC2_RawBeets.description>Beterraba crua. Tudo, da raiz as folhas, é saboroso e comestivel.</RC2_RawBeets.description>
+
+  <RC2_RawYams.label>inhame</RC2_RawYams.label>
+  <RC2_RawYams.description>Inhame cru. Um tubérculo delicioso e altamente saciável!</RC2_RawYams.description>
+
+  <RC2_RawPeppers.label>pimenta</RC2_RawPeppers.label>
+  <RC2_RawPeppers.description>Pimenta crua. Picante! Ao contrário da maioria dos vegetais, eles são bons crus ou cozidos.</RC2_RawPeppers.description>
+
+  <RC2_RawSnapPeas.label>ervilhas</RC2_RawSnapPeas.label>
+  <RC2_RawSnapPeas.description>Ervilhas cruas. Um dos poucos legumes saborosos logo na planta. Embora tecnicamente seja uma fruta, mas não diga isso aos chefs.</RC2_RawSnapPeas.description>
+
+  <RC2_RawCucumbers.label>pepino</RC2_RawCucumbers.label>
+  <RC2_RawCucumbers.description>Pepinos são uma planta de cabaça mais conhecida por fazer picles deliciosos ou nojento. Eles também podem ser comidos crus, mas quem realmente faz isso?</RC2_RawCucumbers.description>
+
+  <RC2_RawSugarBeets.label>beterraba sacarina</RC2_RawSugarBeets.label>
+  <RC2_RawSugarBeets.description>Beterraba sacarina. Comestivel, mas geralmente muito doce e estranho degustação. Melhor cozido ou usado para fazer açúcar de beterraba.</RC2_RawSugarBeets.description>
+
+  <RC2_RawAsparagus.label>aspargo</RC2_RawAsparagus.label>
+  <RC2_RawAsparagus.description>Aspargos crus. Esses brotos são colhidos  jovens antes de ficarem muito lenhosos para comer. Eles têm uma mordida pungente para eles.</RC2_RawAsparagus.description>
+
+  <RC2_RawEggplants.label>berinjela</RC2_RawEggplants.label>
+  <RC2_RawEggplants.description>Berinjela crua. Usado em uma variedade de pratos. Tecnicamente, são uma fruta, mas, culinariamente, são usadas como vegetais.</RC2_RawEggplants.description>
+
+  <RC2_RawBanana.label>banana</RC2_RawBanana.label>
+  <RC2_RawBanana.description>Banana crua. Saborosa fruta amarela encontrada em cachos e frequentemente usada como forma de medição.</RC2_RawBanana.description>
+
+  <RC2_RawApples.label>maçã</RC2_RawApples.label>
+  <RC2_RawApples.description>Maçã crua. Saborosa fruta vermelha/verde com uma mordida doce e levemente azeda. Suculento e crocante!</RC2_RawApples.description>
+
+  <RC2_RawOrange.label>laranja</RC2_RawOrange.label>
+  <RC2_RawOrange.description>Laranja crua. Excelente para afastar o escorbuto!</RC2_RawOrange.description>
+
+  <RC2_RawFigs.label>figo</RC2_RawFigs.label>
+  <RC2_RawFigs.description>Figos crus. Delicioso logo de cara, os figos são usados em diversas refeições deliciosas</RC2_RawFigs.description>
+
+  <RC2_RawPomegranates.label>romã</RC2_RawPomegranates.label>
+  <RC2_RawPomegranates.description>Romãs cruas. Delicioso logo após a árvore, os figos são usados em diversas refeições deliciosas.</RC2_RawPomegranates.description>
+
+  <RC2_RawCactusFruit.label>pitaya</RC2_RawCactusFruit.label>
+  <RC2_RawCactusFruit.description>Pitaya cru. Certifique-se de descascar as peles antes de comê-las</RC2_RawCactusFruit.description>
+
+  <RC2_RawCoconut.label>coco</RC2_RawCoconut.label>
+  <RC2_RawCoconut.description>Cocos crus. Batendo-los juntos tem sido conhecido para aumentar a velocidade de caminhada.</RC2_RawCoconut.description>
+
+  <RC2_RawJuniperBerries.label>baga de zimbro</RC2_RawJuniperBerries.label>
+  <RC2_RawJuniperBerries.description>Bagas de zimbro frescas. Não é muito saboroso, mas comestivel. Usado principalmente na fabricação de Gim.</RC2_RawJuniperBerries.description>
+
+  <RC2_RawGrapes.label>uvas</RC2_RawGrapes.label>
+  <RC2_RawGrapes.description>Uvas sortidas. Saboroso cru, mas melhor usado na produção de vinho!</RC2_RawGrapes.description>
+
+  <RC2_RawMelons.label>melão</RC2_RawMelons.label>
+  <RC2_RawMelons.description>Melõe cru. Grandes, suculentos e saborosos, esses melões são ótimos em um dia quente de verão.</RC2_RawMelons.description>
+
+  <RC2_RawPumpkins.label>abóbora</RC2_RawPumpkins.label>
+  <RC2_RawPumpkins.description>Abóbora crua. Grandes, suculentas e saborosas, essas abóboras são ótimas durante o outono.</RC2_RawPumpkins.description>
+
+  <RC2_RawPineapples.label>abacaxi</RC2_RawPineapples.label>
+  <RC2_RawPineapples.description>Abacaxi cru. Uma fruta tropical que cresce em plantas curtas. Tem carne doce que muitas vezes é saboreada crua cortando a parte superior e separando-a.</RC2_RawPineapples.description>
+
+  <RC2_RawBreadfruit.label>fruta-pão</RC2_RawBreadfruit.label>
+  <RC2_RawBreadfruit.description>Fruta-pão crua. Uma fruta tropical que tem sabor de pão ou batata recém-assados.</RC2_RawBreadfruit.description>
+
+  <RC2_RawDurians.label>durian</RC2_RawDurians.label>
+  <RC2_RawDurians.description>Durians crus. Alguns dizem que cheira e tem gosto de lixo podre e produtos quimicos. Outros acham delicioso. Primo da jaca.</RC2_RawDurians.description>
+
+  <RC2_RawPlums.label>ameixa</RC2_RawPlums.label>
+  <RC2_RawPlums.description>Ameixas cruas. Essas frutas de aparência empoeirada têm um grande caroço no centro e seu suco é o favorito dos idosos.</RC2_RawPlums.description>
+
+  <RC2_RawPeaches.label>pêssego</RC2_RawPeaches.label>
+  <RC2_RawPeaches.description>Pêssegos crus. Essas frutas de aparência empoeirada têm um grande caroço no centro e são frequentemente usadas para fazer chá ou outras coisas.</RC2_RawPeaches.description>
+
+  <RC2_RawPecans.label>nozes-pecã</RC2_RawPecans.label>
+  <RC2_RawPecans.description>Nozes-pecã cruas. Tecnicamente a semente de uma fruta, esses deliciosos pedaços de nozes são um ótimo complemento para as sobremesas.</RC2_RawPecans.description>
+
+  <RC2_RawCherries.label>cereja</RC2_RawCherries.label>
+  <RC2_RawCherries.description>Cerejas cruas. Essas frutas azedas têm uma semente grande nelas, mas são as favoritas em vinhos, sobremesas e apenas refeições simples.</RC2_RawCherries.description>
+
+
+  <!-- Non-Edible -->
+
+  <RC2_RawWheat.label>grãos de trigo</RC2_RawWheat.label>
+  <RC2_RawWheat.description>Grãos de trigo cru. Não comestiveis por seres humanos crus, eles devem ser processados e cozidos.</RC2_RawWheat.description>
+
+  <RC2_RawSugarcane.label>cana de açúcar</RC2_RawSugarcane.label>
+  <RC2_RawSugarcane.description>cana de açúcar crua. Embora você possa sugá-lo para obter alguns dos sucos doces, não é tecnicamente comestivel.</RC2_RawSugarcane.description>
+
+  <RC2_RawCoffeeBeans.label>grãos de café</RC2_RawCoffeeBeans.label>
+  <RC2_RawCoffeeBeans.description>Grãos de café crus. Quero Cafééé É</RC2_RawCoffeeBeans.description>
+
+  <RC2_RawTeaLeaves.label>folha de chá</RC2_RawTeaLeaves.label>
+  <RC2_RawTeaLeaves.description>Folhas de chá não fermentadas. Usado para fazer chá verde relaxante.</RC2_RawTeaLeaves.description>
+
+  <RC2_RawCocoaBeans.label>sementes de cacau</RC2_RawCocoaBeans.label>
+  <RC2_RawCocoaBeans.description>Sementes de cacau crus. Chocolate!</RC2_RawCocoaBeans.description>
+
+
+</LanguageData>

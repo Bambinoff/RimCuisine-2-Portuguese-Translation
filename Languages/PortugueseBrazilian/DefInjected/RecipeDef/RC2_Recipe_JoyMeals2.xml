@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_MakeCandy.label>fazer doce</RC2_MakeCandy.label>
+  <RC2_MakeCandy.description>Usa doce para fazer doces deliciosos. Faz 10.</RC2_MakeCandy.description>
+  <RC2_MakeCandy.jobString>Fazendo doce.</RC2_MakeCandy.jobString>
+
+  <RC2_MakeJuice.label>fazer suco</RC2_MakeJuice.label>
+  <RC2_MakeJuice.description>Usa uma ou mais frutas para fazer um suco delicioso. Faz 5.</RC2_MakeJuice.description>
+  <RC2_MakeJuice.jobString>Fazendo suco.</RC2_MakeJuice.jobString>
+
+  <RC2_MakePastry.label>fazer folhado</RC2_MakePastry.label>
+  <RC2_MakePastry.description>Usa doces e farinha para fazer folhado. Não pastéis, folhado! Cuidado com qualquer aplicação da lei nas proximidades, no entanto, como eles vão comer tudo. Faz 10.</RC2_MakePastry.description>
+  <RC2_MakePastry.jobString>Fazendo folhado</RC2_MakePastry.jobString>
+
+  <RC2_ProcessCoffee.label>preparar café</RC2_ProcessCoffee.label>
+  <RC2_ProcessCoffee.description>Preparar café com grãos de café. Faz 5.</RC2_ProcessCoffee.description>
+  <RC2_ProcessCoffee.jobString>Preparando café.</RC2_ProcessCoffee.jobString>
+
+  <RC2_BrewTea.label>preparar chá verde</RC2_BrewTea.label>
+  <RC2_BrewTea.description>Preparar chá verde com folhas de chá. Faz 5.</RC2_BrewTea.description>
+  <RC2_BrewTea.jobString>Preparando chá verde.</RC2_BrewTea.jobString>
+
+
+</LanguageData>

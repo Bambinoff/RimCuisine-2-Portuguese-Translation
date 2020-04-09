@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main Categories -->
+
+  <RC2_BasicCooking.label>culinária básica</RC2_BasicCooking.label>
+  <RC2_BasicCooking.description>O conhecimento de fazer sopas, doces e chá, entre outras coisas.</RC2_BasicCooking.description>
+
+  <RC2_IntermediateCooking.label>culinária intermediária</RC2_IntermediateCooking.label>
+  <RC2_IntermediateCooking.description>O conhecimento da culinária mais avançada, incluindo moinho de pedra, café e folhados.</RC2_IntermediateCooking.description>
+
+  <RC2_AdvancedCooking.label>culinária avançada</RC2_AdvancedCooking.label>
+  <RC2_AdvancedCooking.description>Técnicas avançadas de cozimento, incluindo o moinho de rolos e a produção de tofu a partir de soja.</RC2_AdvancedCooking.description>
+
+  <!--[Core] <Pemmican.label>preservação básica de alimentos</Pemmican.label>-->
+  <!--[Core] <Pemmican.description>O conhecimento de fazer pemmican, secar carne e frutas e fazer biscoito seco.</Pemmican.description>-->
+
+  <!--[Core] <PackagedSurvivalMeal.label>preservação intermediária de alimentos</PackagedSurvivalMeal.label>-->
+  <!--[Core] <PackagedSurvivalMeal.description>Produza refeições de sobrevivência embaladas que nunca apodrecem. Muito bom para viajar.</PackagedSurvivalMeal.description>-->
+
+  <RC2_AdvancedFoodPreservation.label>preservação avançada de alimentos</RC2_AdvancedFoodPreservation.label>
+  <RC2_AdvancedFoodPreservation.description>The O conhecimento de conservas e a capacidade de fabricar uma enlatada. A comida enlatada dura indefinidamente.</RC2_AdvancedFoodPreservation.description>
+
+  <RC2_BasicAgriculture.label>agricultura básica</RC2_BasicAgriculture.label>
+  <RC2_BasicAgriculture.description>O conhecimento de plantar alguns cultivos simples.</RC2_BasicAgriculture.description>
+
+  <!--[Core] <TreeSowing.label>florestal básico</TreeSowing.label>-->
+  <!--[Core] <TreeSowing.description>Semeie as árvores naturais do bioma local em seus campos e também algumas que dão frutos.</TreeSowing.description>-->
+
+  <RC2_IntermediateAgriculture.label>agricultura intermediária</RC2_IntermediateAgriculture.label>
+  <RC2_IntermediateAgriculture.description>O conhecimento de plantar cultivos mais avançados</RC2_IntermediateAgriculture.description>
+
+  <RC2_IntermediateForestry.label>florestal intermediário</RC2_IntermediateForestry.label>
+  <RC2_IntermediateForestry.description>O conhecimento de plantar árvores frutiferas em seus campos.</RC2_IntermediateForestry.description>
+
+  <RC2_AdvancedAgriculture.label>agricultura avançada</RC2_AdvancedAgriculture.label>
+  <RC2_AdvancedAgriculture.description>O conhecimento de plantar cultivos ainda mais avançadas e úteis.</RC2_AdvancedAgriculture.description>
+
+  <!--[Core] <Cocoa.label>florestal avançado</Cocoa.label>-->
+  <!--[Core] <Cocoa.description>Maior conhecimento do plantio de árvores frutiferas.</Cocoa.description>-->
+
+
+</LanguageData>

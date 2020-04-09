@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_FoodPrepSpot.label>local de cozimento</RC2_FoodPrepSpot.label>
+  <RC2_FoodPrepSpot.description>Um local para preparar ingredientes para usar na culinária.</RC2_FoodPrepSpot.description>
+  <RC2_FoodPrepSpot_Blueprint.label>local de cozimento (projeto)</RC2_FoodPrepSpot_Blueprint.label>
+  <RC2_FoodPrepSpot_Frame.label>local de cozimento (construção)</RC2_FoodPrepSpot_Frame.label>
+  <RC2_FoodPrepSpot_Frame.description>Um local para preparar ingredientes para usar na culinária.</RC2_FoodPrepSpot_Frame.description>
+
+  <RC2_Quernstone.label>moinho de pedra</RC2_Quernstone.label>
+  <RC2_Quernstone.description>Uma pequena pedra de moagem movida a músculo para moer rapidamente plantas cruas.</RC2_Quernstone.description>
+  <RC2_Quernstone_Blueprint.label>moinho de pedra (projeto)</RC2_Quernstone_Blueprint.label>
+  <RC2_Quernstone_Blueprint_Install.label>moinho de pedra (projeto)</RC2_Quernstone_Blueprint_Install.label>
+  <RC2_Quernstone_Frame.label>moinho de pedra (construção)</RC2_Quernstone_Frame.label>
+  <RC2_Quernstone_Frame.description>Uma pequena pedra de moagem movida a músculo para moer rapidamente plantas cruas.</RC2_Quernstone_Frame.description>
+
+  <RC2_RollerMill.label>moinho de rolo</RC2_RollerMill.label>
+  <RC2_RollerMill.description>Uma pequena retificadora elétrica usando rolos para moer material vegetal.</RC2_RollerMill.description>
+  <RC2_RollerMill_Blueprint.label>moinho de rolo (projeto)</RC2_RollerMill_Blueprint.label>
+  <RC2_RollerMill_Blueprint_Install.label>moinho de rolo (projeto)</RC2_RollerMill_Blueprint_Install.label>
+  <RC2_RollerMill_Frame.label>moinho de rolo (construção)</RC2_RollerMill_Frame.label>
+  <RC2_RollerMill_Frame.description>Uma pequena retificadora elétrica usando rolos para moer material vegetal.</RC2_RollerMill_Frame.description>
+
+
+</LanguageData>

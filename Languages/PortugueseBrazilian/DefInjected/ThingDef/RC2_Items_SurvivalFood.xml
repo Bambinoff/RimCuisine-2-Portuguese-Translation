@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alimentos de sobrevivência são uma mistura entre ingredientes preservados (legumes em conserva, carne seca, frutas secas) e refeições duradouras (biscoito seco).
+Os ingredientes em conserva são exatamente isso - ingredientes para serem usados para cozinhar, não para comer diretamente. No entanto, todos eles ainda têm um sabor melhor do que alimentos crus (exceto frutas crus!), para que eles geralmente não tenham maus pensamentos associados a eles. Sua preferência é apenas acima de alimentos crus.
+Enquanto isso, o Hardtack é menos eficiente em termos de nutrientes do que o pemmican (a receita não produz tanto), dura mais tempo, mas dá uma ideia horrivel da refeição, tornando-amenos OP do que no RimCuisine 1. Também é super barato por causa do gosto ruim, o que é ótimo para comprar de comerciantes em uma caravana. -->
+
+  <RC2_Hardtack.label>biscoito seco</RC2_Hardtack.label>
+  <RC2_Hardtack.description>Um biscoito ou bolacha resistente que dura muito tempo e é bom para viajar. Faz você  ficar com sede e não tem um gosto muito bom.</RC2_Hardtack.description>
+
+  <RC2_DriedFruit.label>fruta seca</RC2_DriedFruit.label>
+  <RC2_DriedFruit.description>Fruta que foi seco, muitas vezes perto de um fogo, ao sol, ou em um forno. Sem a umidade, elas duram um pouco mais e viajam bem. Favorecido por caravanas e tribais. Pode ser usado em receitas culinárias.</RC2_DriedFruit.description>
+
+
+  <!-- A carne seca costumava ser 60 dias antes de apodrecer, mas eu senti que era mais equilibrada aos 30 dias. Ainda é muito mais do que carne crua. -->
+
+  <RC2_DriedMeat.label>carne seca</RC2_DriedMeat.label>
+  <RC2_DriedMeat.description>Pedaços de carne que foram cortados com a maior parte, se não toda, de sua gordura e secos perto de uma fogueira ou de um fogão. A carne seca viaja bem e dura um pouco mais do que a carne crua. Favorecido por tribais e caravanas. Pode ser consumido por si sóâ sem problemas, mas é frequentemente usado em receitas culinárias, especialmente ensopados, para amaciar.</RC2_DriedMeat.description>
+
+  <RC2_PickledVegetables.label>legumes em conserva</RC2_PickledVegetables.label>
+  <RC2_PickledVegetables.description>Legumes que foram embalados em uma jarra ou lata com uma solução de salmoura ou vinagre. Favorecidos por quem gosta de vinagre, também são usados na culinária e duram muito tempo.</RC2_PickledVegetables.description>
+
+  <RC2_TrimmedMeat.label>aparas de carne</RC2_TrimmedMeat.label>
+  <RC2_TrimmedMeat.description>Pedaços de carne que foram cortados com a maior parte, se não toda, de sua gordura e prontos para serem secados em um varal de secagem.</RC2_TrimmedMeat.description>
+
+  <RC2_PreparedFruit.label>frutas preparadas</RC2_PreparedFruit.label>
+  <RC2_PreparedFruit.description>Frutas que foram descascadas, cortadas e/ou sem caroço/semeadas, para que possam ser secas facilmente.</RC2_PreparedFruit.description>
+
+  <RC2_PickleBrine.label>legumes salgados</RC2_PickleBrine.label>
+  <RC2_PickleBrine.description>Legumes que foram cortados com excesso de pele e misturados com uma solução de salmoura, prontos para conservar em barricas a longo prazo.</RC2_PickleBrine.description>
+
+
+</LanguageData>

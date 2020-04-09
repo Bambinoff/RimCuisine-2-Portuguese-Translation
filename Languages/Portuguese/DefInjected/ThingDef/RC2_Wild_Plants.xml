@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	== Stuff ==
+  
+  <RC2_PlantBeeTree.label>árvore infestada de abelhas</RC2_PlantBeeTree.label>
+  <RC2_PlantBeeTree.description>Uma árvore quase sem vida que atualmente suporta uma colmeia de abelhas. Colha-os periodicamente para um delicioso mel!</RC2_PlantBeeTree.description>
+      
+	== Vegetables ==
+  
+  <RC2_PlantTruffles.label>trufa</RC2_PlantTruffles.label>
+  <RC2_PlantTruffles.description>Um fungo comestivel, dificil de encontrar e altamente valorizado pelo seu sabor.</RC2_PlantTruffles.description>
+      	
+	== Non-Food ==
+  
+  <RC2_PlantFlax.label>planta de linho</RC2_PlantFlax.label>
+  <RC2_PlantFlax.description>Produz linho, uma fibra útil na confecção de tecidos.</RC2_PlantFlax.description>
+    
+
+</LanguageData>

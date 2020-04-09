@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookThinPottage.label>cozinhar sopa rala x5</CookThinPottage.label>
+  <CookThinPottage.description>Cozinhe sopa rala com alguns ingredientes. Faz 5 refeições.</CookThinPottage.description>
+  <CookThinPottage.jobString>Cozinhando sopa rala </CookThinPottage.jobString>
+
+  <RC2_CookThickPottage.label>cozinhar ensopado grosso x5</RC2_CookThickPottage.label>
+  <RC2_CookThickPottage.description>Cozinhe uma ensopado grosso de carne e qualquer tipo de ingredientes vegetais. Faz 5 refeições.</RC2_CookThickPottage.description>
+  <RC2_CookThickPottage.jobString>Cozinhando ensopado grosso</RC2_CookThickPottage.jobString>
+
+  <RC2_MakeHardtack.label>fazer biscoito seco</RC2_MakeHardtack.label>
+  <RC2_MakeHardtack.description>Faça biscoito seco, também conhecido por biscoito de sobrevivência, é um biscoito resistente que dura anos e te saciara. Não tem um gosto muito bom. Faz 14.</RC2_MakeHardtack.description>
+  <RC2_MakeHardtack.jobString>Fazendo biscoito seco</RC2_MakeHardtack.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <FermentingBarrel.label>barril de fermentação</FermentingBarrel.label>-->
+  <!--[Core] <FermentingBarrel.description>Um barril para fermentar o mosto cru em cerveja.</FermentingBarrel.description>-->
+  <!--[Core] <FermentingBarrel_Blueprint.label>barril de fermentação (projeto)</FermentingBarrel_Blueprint.label>-->
+  <!--[Core] <FermentingBarrel_Blueprint_Install.label>(projeto)</FermentingBarrel_Blueprint_Install.label>-->
+  <!--[Core] <FermentingBarrel_Frame.label>barril de fermentação (construção)</FermentingBarrel_Frame.label>-->
+  <!--[Core] <FermentingBarrel_Frame.description>Um barril para fermentar o mosto cru em cerveja</FermentingBarrel_Frame.description>-->
+
+
+</LanguageData>

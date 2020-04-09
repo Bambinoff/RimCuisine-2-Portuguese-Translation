@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_CookJoyMealBase.label>fazer comida</RC2_CookJoyMealBase.label>
+  <RC2_CookJoyMealBase.description>Faça comida.</RC2_CookJoyMealBase.description>
+  <RC2_CookJoyMealBase.jobString>Fazendo comida.</RC2_CookJoyMealBase.jobString>
+
+  <RC2_RecipeBase.label>fazer comida</RC2_RecipeBase.label>
+  <RC2_RecipeBase.description>Faça comida.</RC2_RecipeBase.description>
+  <RC2_RecipeBase.jobString>Fazendo comida.</RC2_RecipeBase.jobString>
+
+
+</LanguageData>

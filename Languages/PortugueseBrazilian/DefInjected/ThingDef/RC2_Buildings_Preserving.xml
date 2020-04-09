@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_MeatDryingRack.label>varal de secagem de carne</RC2_MeatDryingRack.label>
+  <RC2_MeatDryingRack.description>Um varal para secar carne crua. Deve ser colocado ao ar livre.</RC2_MeatDryingRack.description>
+  <RC2_MeatDryingRack_Blueprint.label>varal de secagem de carne (projeto)</RC2_MeatDryingRack_Blueprint.label>
+  <RC2_MeatDryingRack_Frame.label>varal de secagem de carne (construção)</RC2_MeatDryingRack_Frame.label>
+  <RC2_MeatDryingRack_Frame.description>Um varal para secar carne crua. Deve ser colocado ao ar livre.</RC2_MeatDryingRack_Frame.description>
+
+  <RC2_FruitDryingRack.label>desidratador de fruta</RC2_FruitDryingRack.label>
+  <RC2_FruitDryingRack.description>Um desidratador para secagem de frutas. Degrada o sabor de qualquer fruta de alta qualidade, mas a fruta seca ainda é saborosa.</RC2_FruitDryingRack.description>
+  <RC2_FruitDryingRack_Blueprint.label>desidratador de fruta (projeto)</RC2_FruitDryingRack_Blueprint.label>
+  <RC2_FruitDryingRack_Blueprint_Install.label>fruit drying rack?projeto?</RC2_FruitDryingRack_Blueprint_Install.label>
+  <RC2_FruitDryingRack_Frame.label>desidratador de fruta (construção)</RC2_FruitDryingRack_Frame.label>
+  <RC2_FruitDryingRack_Frame.description>Um desidratador para secagem de frutas. Degrada o sabor de qualquer fruta de alta qualidade, mas a fruta seca ainda é saborosa.</RC2_FruitDryingRack_Frame.description>
+
+  <RC2_PicklingBarrel.label>barril de decapagem</RC2_PicklingBarrel.label>
+  <RC2_PicklingBarrel.description>Um barril cheio de salmoura para conservar legumes. Degrada a qualidade dos vegetais de alta qualidade, tornando tudo com gosto de sal e vinagre.</RC2_PicklingBarrel.description>
+  <RC2_PicklingBarrel_Blueprint.label>barril de decapagem (projeto)</RC2_PicklingBarrel_Blueprint.label>
+  <RC2_PicklingBarrel_Blueprint_Install.label>pickling barrel (projeto)</RC2_PicklingBarrel_Blueprint_Install.label>
+  <RC2_PicklingBarrel_Frame.label>barril de decapagem (construção)</RC2_PicklingBarrel_Frame.label>
+  <RC2_PicklingBarrel_Frame.description>Um barril cheio de salmoura para conservar legumes. Degrada a qualidade dos vegetais de alta qualidade, tornando tudo com gosto de sal e vinagre.</RC2_PicklingBarrel_Frame.description>
+
+<RC2_ElectricMeatDryingRack.label>desidratador de carne elétrico</RC2_ElectricMeatDryingRack.label>
+  <RC2_ElectricMeatDryingRack.description>Um desidratador elétrico para secagem de carne crua. Funciona três vezes mais rápido!</RC2_ElectricMeatDryingRack.description>
+  <RC2_ElectricMeatDryingRack_Blueprint.label>desidratador de carne elétrico (projeto)</RC2_ElectricMeatDryingRack_Blueprint.label>
+  <RC2_ElectricMeatDryingRack_Frame.label>desidratador de carne elétrico (construção)</RC2_ElectricMeatDryingRack_Frame.label>
+  <RC2_ElectricMeatDryingRack_Frame.description>Um desidratador elétrico para secagem de carne crua. Funciona três vezes mais rápido!</RC2_ElectricMeatDryingRack_Frame.description>
+
+  <RC2_FruitDryingRack.label>desidratador de frutas elétrico</RC2_FruitDryingRack.label>
+  <RC2_FruitDryingRack.description>Um desidratador elétrico para secagem de frutas. Degrada o sabor de qualquer fruta de alta qualidade. Funciona três vezes mais rápido que um movido a madeira.</RC2_FruitDryingRack.description>
+  <RC2_FruitDryingRack_Blueprint.label>desidratador de frutas elétrico (projeto)</RC2_FruitDryingRack_Blueprint.label>
+  <RC2_FruitDryingRack_Blueprint_Install.label>fruit drying rack?projeto?</RC2_FruitDryingRack_Blueprint_Install.label>
+  <RC2_FruitDryingRack_Frame.label>desidratador de frutas elétrico (construção)</RC2_FruitDryingRack_Frame.label>
+  <RC2_FruitDryingRack_Frame.description>Um desidratador elétrico para secagem de frutas. Degrada o sabor de qualquer fruta de alta qualidade. Funciona três vezes mais rápido que um movido a madeira..</RC2_FruitDryingRack_Frame.description>
+
+</LanguageData>

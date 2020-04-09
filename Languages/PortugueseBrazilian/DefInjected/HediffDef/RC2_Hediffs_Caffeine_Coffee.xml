@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_Caffeine.label>agitação da cafeina</RC2_Caffeine.label>
+  <RC2_Caffeine.stages.0.label>mais animado</RC2_Caffeine.stages.0.label>
+  <RC2_Caffeine.stages.1.label>ligado</RC2_Caffeine.stages.1.label>
+  <RC2_Caffeine.stages.2.label>ansiedade</RC2_Caffeine.stages.2.label>
+  <RC2_Caffeine.stages.3.label>sobrecarga</RC2_Caffeine.stages.3.label>
+  <RC2_Caffeine.labelNoun>uma agitação da cafeina</RC2_Caffeine.labelNoun>
+
+  <RC2_CaffeineTolerance.label>tolerância a cafeina</RC2_CaffeineTolerance.label>
+  <RC2_CaffeineTolerance.stages.0.label>leve</RC2_CaffeineTolerance.stages.0.label>
+  <RC2_CaffeineTolerance.stages.1.label>médio</RC2_CaffeineTolerance.stages.1.label>
+  <RC2_CaffeineTolerance.stages.2.label>maior</RC2_CaffeineTolerance.stages.2.label>
+  <RC2_CaffeineTolerance.stages.3.label>extrema</RC2_CaffeineTolerance.stages.3.label>
+
+  <RC2_CaffeineAddiction.label>dependência de cafeina</RC2_CaffeineAddiction.label>
+  <RC2_CaffeineAddiction.stages.1.label>abstinência de cafeina</RC2_CaffeineAddiction.stages.1.label>
+
+
+</LanguageData>

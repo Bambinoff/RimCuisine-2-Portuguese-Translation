@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_MillingBase.label>preparar ingredientes</RC2_MillingBase.label>
+  <RC2_MillingBase.description>Prepare alguns ingredientes.</RC2_MillingBase.description>
+  <RC2_MillingBase.jobString>Preparando ingredientes</RC2_MillingBase.jobString>
+
+  <RC2_ProcessSugarBeets.label>fazer açúcar de beterraba sacarina</RC2_ProcessSugarBeets.label>
+  <RC2_ProcessSugarBeets.description>Transforme beterraba sacarina em um delicioso pó branco, que destrói os dentes. Menos eficiente que a cana de açúcar.</RC2_ProcessSugarBeets.description>
+  <RC2_ProcessSugarBeets.jobString>Processando beterraba sacarina.</RC2_ProcessSugarBeets.jobString>
+
+  <RC2_ProcessSugarBeetsBulk.label>fazer açúcar de beterraba x5</RC2_ProcessSugarBeetsBulk.label>
+  <RC2_ProcessSugarBeetsBulk.description>Transforme beterraba sacarina em um delicioso pó branco, que destrói os dentes. Rende 5. Menos eficiente que a cana de açúcar.</RC2_ProcessSugarBeetsBulk.description>
+  <RC2_ProcessSugarBeetsBulk.jobString>Processando beterraba sacarina em massa</RC2_ProcessSugarBeetsBulk.jobString>
+
+  <RC2_ProcessSugarcane.label>fazer açúcar de cana de açúcar</RC2_ProcessSugarcane.label>
+  <RC2_ProcessSugarcane.description>Transforme cana de açúcar em um delicioso pó branco destruidor de dentes.</RC2_ProcessSugarcane.description>
+  <RC2_ProcessSugarcane.jobString>Processando cana de açúcar.</RC2_ProcessSugarcane.jobString>
+
+  <RC2_ProcessSugarcaneBulk.label>fazer açúcar de cana de açúcar x5</RC2_ProcessSugarcaneBulk.label>
+  <RC2_ProcessSugarcaneBulk.description>Transforme cana de açúcar em um delicioso pó branco destruidor de dentes. Rende 5.</RC2_ProcessSugarcaneBulk.description>
+  <RC2_ProcessSugarcaneBulk.jobString>Processando cana de açúcar em massa.</RC2_ProcessSugarcaneBulk.jobString>
+
+  <RC2_ProcessGrain.label>fazer farinha de grãos</RC2_ProcessGrain.label>
+  <RC2_ProcessGrain.description>Processar grãos em farinha, tornando-o utilizável em alimentos</RC2_ProcessGrain.description>
+  <RC2_ProcessGrain.jobString>Moagem de grãos em farinha.</RC2_ProcessGrain.jobString>
+
+  <RC2_ProcessGrainBulk.label>fazer farinha de grãos x5</RC2_ProcessGrainBulk.label>
+  <RC2_ProcessGrainBulk.description>Transforme o grão em farinha, tornando-o utilizável nos alimentos. Rende 5.</RC2_ProcessGrainBulk.description>
+  <RC2_ProcessGrainBulk.jobString>Moagem de grãos em farinha.</RC2_ProcessGrainBulk.jobString>
+
+  <RC2_ProcessCacao.label>fazer chocolate</RC2_ProcessCacao.label>
+  <RC2_ProcessCacao.description>Combine grãos de cacau e adoçantes para fazer um delicioso chocolate</RC2_ProcessCacao.description>
+  <RC2_ProcessCacao.jobString>Fazendo chocolate</RC2_ProcessCacao.jobString>
+
+  <RC2_ProcessCacaoBulk.label>fazer chocolate x5</RC2_ProcessCacaoBulk.label>
+  <RC2_ProcessCacaoBulk.description>Combine grãos de cacau e adoçantes para fazer um delicioso chocolate. Rende 5.</RC2_ProcessCacaoBulk.description>
+  <RC2_ProcessCacaoBulk.jobString>Fazendo chocolate em massa</RC2_ProcessCacaoBulk.jobString>
+			
+  <RC2_ProcessSoybean.label>fazer tofu</RC2_ProcessSoybean.label>
+  <RC2_ProcessSoybean.description>Faça tofu com soja. Eca.</RC2_ProcessSoybean.description>
+  <RC2_ProcessSoybean.jobString>Fazendo tofu.</RC2_ProcessSoybean.jobString>
+
+  <RC2_ProcessSoybeanBulk.label>fazer tofu x5</RC2_ProcessSoybeanBulk.label>
+  <RC2_ProcessSoybeanBulk.description>Faça tofu com soja. Eca. Rende 5.</RC2_ProcessSoybeanBulk.description>
+  <RC2_ProcessSoybeanBulk.jobString>Fazendo tofu em massa.</RC2_ProcessSoybeanBulk.jobString>
+		
+  <RC2_ProcessAgave.label>fazer néctar de agave</RC2_ProcessAgave.label>
+  <RC2_ProcessAgave.description>Transforme a fruta agave em um delicioso néctar pegajoso.</RC2_ProcessAgave.description>
+  <RC2_ProcessAgave.jobString>Processando agave.</RC2_ProcessAgave.jobString>
+
+  <RC2_ProcessAgaveBulk.label>fazer néctar de agave x5</RC2_ProcessAgaveBulk.label>
+  <RC2_ProcessAgaveBulk.description>Transforme a fruta agave em um delicioso néctar pegajoso. Rende 5.</RC2_ProcessAgaveBulk.description>
+  <RC2_ProcessAgaveBulk.jobString>Processando agave em massa.</RC2_ProcessAgaveBulk.jobString>
+	
+  <RC2_TrimMeat.label>aparar carne</RC2_TrimMeat.label>
+  <RC2_TrimMeat.description>Apare a carne da maior parte de sua gordura e outras coisas em preparação para o processo de secagem.</RC2_TrimMeat.description>
+  <RC2_TrimMeat.jobString>Aparando carne.</RC2_TrimMeat.jobString>
+
+  <RC2_TrimMeatBulk.label>aparar carne em massa</RC2_TrimMeatBulk.label>
+  <RC2_TrimMeatBulk.description>Apare a carne da maior parte de sua gordura e outras coisas em preparação para o processo de secagem.</RC2_TrimMeatBulk.description>
+  <RC2_TrimMeatBulk.jobString>Aparando carne em massa.</RC2_TrimMeatBulk.jobString>
+
+  <RC2_PrepareFruit.label>preparar frutas</RC2_PrepareFruit.label>
+  <RC2_PrepareFruit.description>Prepare as frutas para o processo de secagem, cortando-as, eliminando as folhas e possivelmente as peles.</RC2_PrepareFruit.description>
+  <RC2_PrepareFruit.jobString>Preparando frutas.</RC2_PrepareFruit.jobString>
+
+  <RC2_PrepareFruitBulk.label>preparar frutas em massa</RC2_PrepareFruitBulk.label>
+  <RC2_PrepareFruitBulk.description>Prepare as frutas para o processo de secagem, cortando-as, eliminando as folhas e possivelmente as peles.</RC2_PrepareFruitBulk.description>
+  <RC2_PrepareFruitBulk.jobString>Preparando frutas em massa.</RC2_PrepareFruitBulk.jobString>
+
+  <RC2_BrineVegetables.label>conserva de legumes</RC2_BrineVegetables.label>
+  <RC2_BrineVegetables.description>Prepare os legumes para decapagem, misturando uma solução de salmoura e colocando-os nela.</RC2_BrineVegetables.description>
+  <RC2_BrineVegetables.jobString>Salga de legumes.</RC2_BrineVegetables.jobString>
+
+  <RC2_BrineVegetablesBulk.label>conserva de legumes em massa</RC2_BrineVegetablesBulk.label>
+  <RC2_BrineVegetablesBulk.description>Prepare os legumes para decapagem, misturando uma solução de salmoura e colocando-os nela.</RC2_BrineVegetablesBulk.description>
+  <RC2_BrineVegetablesBulk.jobString>Salga de legumes</RC2_BrineVegetablesBulk.jobString>
+
+
+</LanguageData>

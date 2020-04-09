@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Joy Foods -->
+
+  <RC2_MealCandy.label>doce</RC2_MealCandy.label>
+  <RC2_MealCandy.description>Uma coleção de doces duros e macios feitos de adoçantes. Comido geralmente pelo punhado pelo guloso.</RC2_MealCandy.description>
+
+  <RC2_MealPastry.label>folhado</RC2_MealPastry.label>
+  <RC2_MealPastry.description>Uma massa doce macia, deliciosa e açucarada, frequentemente preferida pela policia.</RC2_MealPastry.description>
+
+  <RC2_MealJuice.label>suco de fruta</RC2_MealJuice.label>
+  <RC2_MealJuice.description>Uma bebida saborosa feita espremendo uma ou mais frutas. Refrescante, embora particularmente não deixa saciado.</RC2_MealJuice.description>
+
+  <RC2_Coffee.label>café</RC2_Coffee.label>
+  <RC2_Coffee.description>Uma bebida aromática feita a partir de grãos de café que dará um bom começo a sua manhã.</RC2_Coffee.description>
+  <RC2_Coffee.ingestible.ingestCommandString>beber {0}</RC2_Coffee.ingestible.ingestCommandString>
+  <RC2_Coffee.ingestible.ingestReportString>bebendo {0}.</RC2_Coffee.ingestible.ingestReportString>
+
+  <RC2_GreenTea.label>chá verde</RC2_GreenTea.label>
+  <RC2_GreenTea.description>Um chá amargo e aromático feito de folhas de chá nãão fermentadas. Não é particularmente rico em nutrientes, mas possui uma pequena quantidade de cafeina e é relaxante para beber.</RC2_GreenTea.description>
+  <RC2_GreenTea.ingestible.ingestCommandString>beber {0}</RC2_GreenTea.ingestible.ingestCommandString>
+  <RC2_GreenTea.ingestible.ingestReportString>bebendo {0}.</RC2_GreenTea.ingestible.ingestReportString>
+
+  <RC2_MealCrustyPeanuts.label>amendoim torrado</RC2_MealCrustyPeanuts.label>
+  <RC2_MealCrustyPeanuts.description>Um saco de legumes deliciosos! Amendoins, o favorito de todos os tempos de frequentadores de circo ao longo da borda e além. Pegue um punhado quente e fresco de amendoim hoje!</RC2_MealCrustyPeanuts.description>
+
+
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>	
+
+	== Basic Forestry ==
+  
+  <RC2_PlantOrangeTree.label>árvore de laranja</RC2_PlantOrangeTree.label>
+  <RC2_PlantOrangeTree.description>Uma árvore frutifera que produz várias frutas citricas alaranjadas. Dá frutos quatro vezes ao ano quando amadurece. Gosta apenas de climas mais quentes.</RC2_PlantOrangeTree.description>
+      	
+  <RC2_PlantAppletree.label>árvore de maçã</RC2_PlantAppletree.label>
+  <RC2_PlantAppletree.description>Uma árvore frutifera que cresce maçãs vermelhas grandes e suculentas. Dá frutos cinco vezes por ano, uma vez maduro. Gosta de climas temperados.</RC2_PlantAppletree.description>
+	
+  <RC2_PlantPlumTree.label>árvore de ameixa</RC2_PlantPlumTree.label>
+  <RC2_PlantPlumTree.description>Uma árvore frutifera que cresce ameixas grandes e suculentas. Dá frutos três vezes ao ano, uma vez maduro. Gosta de climas temperados e tropicais.</RC2_PlantPlumTree.description>
+	
+  <RC2_PlantPeachTree.label>árvore de pêssego</RC2_PlantPeachTree.label>
+  <RC2_PlantPeachTree.description>Uma árvore frutifera que cresce pêssegos grandes e suculentos. Dá frutos duas vezes ao ano, uma vez maduro. Faz melhor em climas temperados.</RC2_PlantPeachTree.description>
+	
+	== Intermediate Forestry ==
+	
+  <RC2_PlantFigTree.label>árvore de figo</RC2_PlantFigTree.label>
+  <RC2_PlantFigTree.description>AUma árvore frutifera que cresce várias figos. Dá frutos quatro vezes por ano, uma vez maduros. Só cresce bem em climas áridos.</RC2_PlantFigTree.description>
+	
+  <RC2_PlantPomegranateTree.label>árvore de romã</RC2_PlantPomegranateTree.label>
+  <RC2_PlantPomegranateTree.description>Uma árvore frutifera que cresce várias romãs. Dá frutos duas vezes por ano, uma vez maduro. Gosta de climas quentes e secos.</RC2_PlantPomegranateTree.description>
+	
+  <RC2_PlantBananaTree.label>árvore de banana</RC2_PlantBananaTree.label>
+  <RC2_PlantBananaTree.description>Uma árvore frutifera que cresce numerosos cachos de bananas. Dá frutos três vezes ao ano quando amadurece. Cultivado apenas em climas tropicais.</RC2_PlantBananaTree.description>
+	
+  <RC2_PlantCoconutTree.label>árvore de coco</RC2_PlantCoconutTree.label>
+  <RC2_PlantCoconutTree.description>Uma palmeira frutifera que cresce cocos. Dá frutos três vezes ao ano. Só cresce bem em regiões tropicais.</RC2_PlantCoconutTree.description>
+      
+  <RC2_PlantBreadfruitTree.label>árvore de fruta-pão</RC2_PlantBreadfruitTree.label>
+  <RC2_PlantBreadfruitTree.description>Uma árvore frutifera que cresce várias frutas-pão. Dá frutos cinco vezes por ano, uma vez maduro. A fruta-pão é frequentemente um alimento básico em regiões tropicais. Encontrado apenas em florestas tropicais.</RC2_PlantBreadfruitTree.description>
+	
+  <RC2_PlantPecanTree.label>árvore de noz-pecã</RC2_PlantPecanTree.label>
+  <RC2_PlantPecanTree.description>Uma árvore frutifera que cultiva pequenas vagens que abrigam nozes-pecã. Dá frutos pelo menos de duas vezes por ano. Encontrado principalmente em climas temperados.</RC2_PlantPecanTree.description>
+	
+	== Advanced Forestry ==
+  
+  <Plant_TreeCocoa.label>árvore de cacau</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.description>Um cacaueiro. Seus grãos são utilizados na fabricação de chocolate. Produz frutos duas vezes por ano. Cultivado apenas em regiões tropicais.</Plant_TreeCocoa.description>
+	
+  <RC2_PlantSugarMapleTree.label>árvore de bordo</RC2_PlantSugarMapleTree.label>
+  <RC2_PlantSugarMapleTree.description>Uma árvore de tamanho médio comum, facilmente identificável por sua folha distinta de três pontas. Essa espécie especifica de árvore tem um teor mais alto de açúcar, perfeito para a produção de xarope, produz garrafas de xarope três  por ano. Encontrado em climas mais frios e temperados.</RC2_PlantSugarMapleTree.description>
+	
+  <RC2_PlantDurianTree.label>árvore de durian</RC2_PlantDurianTree.label>
+  <RC2_PlantDurianTree.description>Uma árvore frutifera que cresce vários durians. Dá frutos duas vezes ao ano, uma vez maduro. Cresce apenas em regiões tropicais.</RC2_PlantDurianTree.description>
+      
+  <RC2_PlantCherryTree.label>árvore de cereja</RC2_PlantCherryTree.label>
+   <RC2_PlantCherryTree.description>Uma árvore frutifera que cultiva cerejas. Dá frutos menos de duas vezes por ano, uma vez maduros. Faz melhor em regiões temperadas.</RC2_PlantCherryTree.description>
+      
+	
+</LanguageData>	

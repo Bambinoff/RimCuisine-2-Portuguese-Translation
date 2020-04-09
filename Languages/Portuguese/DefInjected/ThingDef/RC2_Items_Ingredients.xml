@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredients -->
+
+  <RC2_Flour.label>farinha</RC2_Flour.label>
+  <RC2_Flour.description>Farinha feita a partir de moagem de qualquer tipo de grão. Usado para assar e cozinhar, é a base de muitas sociedades, inclusive aqui na Rimworld. Muito duradouro, com um prazo de validade de 2 anos.</RC2_Flour.description>
+
+  <RC2_Sugar.label>açúcar</RC2_Sugar.label>
+  <RC2_Sugar.description>Uma substância cristalina tão doce que fará seus dentes doerem, para não mencionar que rapidamente deixa você doente de estômago. Melhor comido cozido em uma variedade de pratos e não comido cru. Mas se você está desesperado, é melhor do que comer pedra.</RC2_Sugar.description>
+
+  <RC2_Tofu.label>tofu</RC2_Tofu.label>
+  <RC2_Tofu.description>Um produto a base de soja que fornece a proteina necessária para ser considerado um substituto da carne. Tem gosto de bunda de acordo com a maioria dos rimworlders. Os gourmands, no entanto, apreciam sua textura e sabor únicos. Não preserva bem, durando apenas 3 dias sem refrigeração ou congelamento adequados.</RC2_Tofu.description>
+
+  <RC2_Syrup.label>xarope</RC2_Syrup.label>
+  <RC2_Syrup.description>Uma substância castanho dourado pegajoso sangrados a partir de árvores de bordo inocentes. Extremamente doce e delicioso, frequentemente usado em flapjacks ou engolido diretamente pelos loucos. Não estraga, mas se deteriora se ficar fora por muito tempo.</RC2_Syrup.description>
+
+  <RC2_Honey.label>mel</RC2_Honey.label>
+  <RC2_Honey.description>Uma deliciosa dose de mel produzido por abelhas. Super doce, super delicioso, o mel é usado como adoçante natural em todos os tipos de guloseimas. Também usado na produção de hidromel por nórdicos raivosos. Não estraga, embora possa se deteriorar se for deixado de fora.</RC2_Honey.description>
+
+  <RC2_AgaveNectar.label>néctar de agave</RC2_AgaveNectar.label>
+  <RC2_AgaveNectar.description>Um adoçante processado feito a partir da planta agave. Super doce e saudável, e também usado para fazer tequila!</RC2_AgaveNectar.description>
+
+
+</LanguageData>

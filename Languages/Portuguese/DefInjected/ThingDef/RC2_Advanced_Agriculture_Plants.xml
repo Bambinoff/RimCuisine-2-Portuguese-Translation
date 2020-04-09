@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	== Grains ==>
+  
+  <RC2_PlantQuinoa.label>planta de quinoa</RC2_PlantQuinoa.label>
+  <RC2_PlantQuinoa.description>Planta produtora de sementes, nativa de regiões montanhosas. Esta cultivar em particular prefere climas quentes e úmidos e só cresce em regiões tropicais.</RC2_PlantQuinoa.description>
+		 
+	== Vegetables ==
+  
+  <RC2_PlantSoybean.label>planta de soja</RC2_PlantSoybean.label>
+  <RC2_PlantSoybean.description>A planta da soja produz legumes que são frequentemente usados como substitutos da carne para aqueles que são sensiveis demais para comer a carne dos mortos. Cresce em regiões temperadas e tropicais.</RC2_PlantSoybean.description>
+   
+  <RC2_PlantSoybeanHydro.label>planta de soja</RC2_PlantSoybeanHydro.label>
+  <RC2_PlantSoybeanHydro.description>A planta da soja produz legumes que são frequentemente usados como substitutos da carne para aqueles que são sensiveis demais para comer a carne dos mortos. Cresce em regiões temperadas e tropicais.</RC2_PlantSoybeanHydro.description>
+     
+  <RC2_PlantPepper.label>arbusto de pimenta</RC2_PlantPepper.label>
+  <RC2_PlantPepper.description>As plantas de pimenta produzem pimenta deliciosamente picantes. Muito bom para molhos e apimentar os alimentos! Cresce em regiões subtropicais e tropicais.</RC2_PlantPepper.description>
+    
+  <RC2_PlantPepperHydro.label>arbusto de pimenta</RC2_PlantPepperHydro.label>
+  <RC2_PlantPepperHydro.description>As plantas de pimenta produzem pimenta deliciosamente picantes. Muito bom para molhos e apimentar os alimentos! Cresce em regiões subtropicais e tropicais.</RC2_PlantPepperHydro.description>
+    
+  
+	== Fruit ==
+  
+  <RC2_PlantGrapes.label>planta de uva</RC2_PlantGrapes.label>
+  <RC2_PlantGrapes.description>Planta de uva são cultivadas há eras e são a fonte de deliciosas uvas. Apenas tome cuidado, elas são uma planta mimada que só pode ser cultivada em regiões temperadas - mas não nos pântanos mais úmidos.</RC2_PlantGrapes.description>
+    
+  <RC2_PlantCactusFruit.label>cacto de pitaya</RC2_PlantCactusFruit.label>
+    <RC2_PlantCactusFruit.description>Um cacto de deserto com folhas grandes e frutas comestiveis. Só pode ser cultivada em regiões áridas.</RC2_PlantCactusFruit.description>
+    		
+  <RC2_PlantJuniper.label>arbusto de zimbro</RC2_PlantJuniper.label>
+    <RC2_PlantJuniper.description>Arbustos sempre verdes que crescem em climas mais frios, os arbustos de zimbro produzem um tipo especial de baga que é usada como tempero e na fabricação de gim. Faz melhor em climas mais frios.</RC2_PlantJuniper.description>
+    			
+  <RC2_PlantPineapple.label>planta de abacaxi</RC2_PlantPineapple.label>
+  <RC2_PlantPineapple.description>As plantas de abacaxi são uma planta tropical que produz uma fruta comestivel e deliciosa. Esta planta só pode ser cultivada em regiões tropicais.</RC2_PlantPineapple.description> 
+    
+  <RC2_PlantPineappleHydro.label>planta de abacaxi</RC2_PlantPineappleHydro.label>
+  <RC2_PlantPineappleHydro.description>As plantas de abacaxi são uma planta tropical que produz uma fruta comestivel e deliciosa. Esta planta só pode ser cultivada em regiões tropicais.</RC2_PlantPineappleHydro.description>
+
+    
+</LanguageData>

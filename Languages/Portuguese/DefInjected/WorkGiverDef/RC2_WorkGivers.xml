@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_DoBillsQuernstone.label>moagem de alimentos crus</RC2_DoBillsQuernstone.label>
+  <RC2_DoBillsQuernstone.verb>moer</RC2_DoBillsQuernstone.verb>
+  <RC2_DoBillsQuernstone.gerund>moendo</RC2_DoBillsQuernstone.gerund>
+
+  <!--[Core] <TakeBeerOutOfFermentingBarrel.label>tira produto de mobiliário de processamento</TakeBeerOutOfFermentingBarrel.label>-->
+  <!--[Core] <TakeBeerOutOfFermentingBarrel.verb>pegar produto</TakeBeerOutOfFermentingBarrel.verb>-->
+  <!--[Core] <TakeBeerOutOfFermentingBarrel.gerund>pegando produto de</TakeBeerOutOfFermentingBarrel.gerund>-->
+
+  <!--[Core] <FillFermentingBarrel.label>enche mobiliário de processamento</FillFermentingBarrel.label>-->
+  <!--[Core] <FillFermentingBarrel.verb>encher</FillFermentingBarrel.verb>-->
+  <!--[Core] <FillFermentingBarrel.gerund>enchendo</FillFermentingBarrel.gerund>-->
+
+  <TakeBeerOutOfFermentingBarrel2.label>tira produto de mobiliário de processamento</TakeBeerOutOfFermentingBarrel2.label>
+  <TakeBeerOutOfFermentingBarrel2.verb>pegar produto</TakeBeerOutOfFermentingBarrel2.verb>
+  <TakeBeerOutOfFermentingBarrel2.gerund>pegando produto de</TakeBeerOutOfFermentingBarrel2.gerund>
+
+  <FillFermentingBarrel2.label>enche mobiliário de processamento</FillFermentingBarrel2.label>
+  <FillFermentingBarrel2.verb>encher</FillFermentingBarrel2.verb>
+  <FillFermentingBarrel2.gerund>enchendo</FillFermentingBarrel2.gerund>
+
+
+</LanguageData>

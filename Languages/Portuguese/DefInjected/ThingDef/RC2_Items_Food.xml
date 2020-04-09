@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredients -->
+
+  <RC2_ThinPottage.label>sopa rala</RC2_ThinPottage.label>
+  <RC2_ThinPottage.description>Um prato simples e saboroso, feito com alguns ingredientes. Não é tão recheado quanto uma refeição adequada.</RC2_ThinPottage.description>
+
+  <RC2_ThickPottage.label>ensopado grosso</RC2_ThickPottage.label>
+  <RC2_ThickPottage.description>Um ensopado recheado com carne e ingredientes vegetarianos. Saborosa, mas não tão recheada quanto uma refeição adequada.</RC2_ThickPottage.description>
+
+
+</LanguageData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	== Grains ==
+  
+  <RC2_PlantWheat.label>planta de trigo</RC2_PlantWheat.label>
+  <RC2_PlantWheat.description>Um grão amplamente cultivada e adaptável, útil para alimentar as massas. Não é comestivel por si só e deve ser moido em farinha para ser comestivel; Cresce melhor em bom solo. É também o ingrediente principal na produção de cerveja, juntamente com o lúpulo.</RC2_PlantWheat.description>
+		
+  <RC2_PlantOats.label>planta de aveia</RC2_PlantOats.label>
+  <description>Um cereal resistente consumido por humanos e rebanhos, a aveia cresce bem em uma variedade de solos e produz uma colheita deliciosa e rica em nutrientes. Cresce em climas mais frios e temperados. Utilizado na produção de cerveja preta, juntamente com lúpulo.</description>
+		
+  <RC2_PlantBarley.label>planta de cevada</RC2_PlantBarley.label>
+  <RC2_PlantBarley.description>Uma grama curta, mas resistente, que cresce quase tão bem em cascalho quanto em solo fértil. Pode ser cultivado em qualquer lugar. Também o principal ingrediente da bebida favorita de todos os tempos, a cerveja.</RC2_PlantBarley.description>	
+
+	== Vegetables ==
+  
+  <RC2_PlantChickpeas.label>planta de grão de bico</RC2_PlantChickpeas.label>
+  <RC2_PlantChickpeas.description>Leguminosa amplamente popular, conhecida por seus usos em homus, sopas e ensopados. Esta planta gosta de climas quentes e secos para crescer.</RC2_PlantChickpeas.description>
+
+  <RC2_PlantChickpeasHydro.label>planta de grão de bico</RC2_PlantChickpeasHydro.label>
+  <RC2_PlantChickpeasHydro.description>Leguminosa amplamente popular, conhecida por seus usos em homus, sopas e ensopados. Esta planta gosta de climas quentes e secos para crescer.</RC2_PlantChickpeasHydro.description>
+      
+  <RC2_PlantOnion.label>planta de cebola</RC2_PlantOnion.label>
+  <RC2_PlantOnion.description>Conhecidos pelos habitantes locais como bolas de muffalo, estes vêm em grandes bulbos brancos e peludos na terra. Os bulbos têm um odor pungente, mas a carne, que descasca em camadas, fica deliciosa quando cozida. Embora amados pelos tribais, tanto pelos tribais quanto pelos viajantes espaciais, eles tendem a causar mau hálito e odor corporal horrivel em quem os come. Pode ser cultivada em qualquer lugar, incluindo hidroponia.</RC2_PlantOnion.description>
+   
+  <RC2_PlantOnionHydro.label>planta de cebola</RC2_PlantOnionHydro.label>
+  <RC2_PlantOnionHydro.description>Conhecidos pelos habitantes locais como bolas de muffalo, estes vêm em grandes bulbos brancos e peludos na terra. Os bulbos têm um odor pungente, mas a carne, que descasca em camadas, fica deliciosa quando cozida. Embora amados pelos tribais, tanto pelos tribais quanto pelos viajantes espaciais, eles tendem a causar mau hálito e odor corporal horrivel em quem os come. Pode ser cultivada em qualquer lugar, incluindo hidroponia.</RC2_PlantOnionHydro.description>					
+    
+  <RC2_PlantCabbages.label>planta de repolho</RC2_PlantCabbages.label>
+  <RC2_PlantCabbages.description>Um verde frondoso que é fácil de crescer e cresce em qualquer lugar. Algumas pessoas adoram, outras odeiam, mas a maioria reconhece sua versatilidade na culinária.</RC2_PlantCabbages.description>
+
+  <RC2_PlantCabbagesHydro.label>planta de repolho</RC2_PlantCabbagesHydro.label>
+  <RC2_PlantCabbagesHydro.description>Um verde frondoso que é fácil de crescer e cresce em qualquer lugar. Algumas pessoas adoram, outras odeiam, mas a maioria reconhece sua versatilidade na culinária.</RC2_PlantCabbagesHydro.description>
+       
+  <RC2_PlantCarrot.label>planta de cenoura</RC2_PlantCarrot.label>
+  <RC2_PlantCarrot.description>Essas raizes alaranjadas brilhantes crescem do chão. São resistentes, resistentes e saudáveis para arrancar, no entanto, não gostam de climas mais quentes.</RC2_PlantCarrot.description>
+  
+  <RC2_PlantCarrotHydro.label>planta de cenoura</RC2_PlantCarrotHydro.label>
+  <RC2_PlantCarrotHydro.description>Essas raizes alaranjadas brilhantes crescem do chão. São resistentes, resistentes e saudáveis para arrancar, no entanto, não gostam de climas mais quentes.</RC2_PlantCarrotHydro.description>
+		
+  <RC2_PlantBeet.label>planta de beterraba</RC2_PlantBeet.label>
+  <RC2_PlantBeet.description>Uma planta curta com uma raiz vermelha brilhante. Tudo, da raiz as folhas, é comestivel. Não gosta de climas mais quentes.</RC2_PlantBeet.description>
+    		
+  <RC2_PlantBeetHydro.label>planta de beterraba</RC2_PlantBeetHydro.label>
+  <RC2_PlantBeetHydro.description>Uma planta curta com uma raiz vermelha brilhante. Tudo, da raiz as folhas, é comestiivel. Não gosta de climas mais quentes.</RC2_PlantBeetHydro.description>
+  
+  <RC2_PlantSnapPeas.label>planta de ervilha</RC2_PlantSnapPeas.label>
+  <RC2_PlantSnapPeas.description>Vagens de sementes comestiveis, ervilhas são um lanche ou ingrediente favorito em todo mundo. Cresce melhor em regiões temperadas.</RC2_PlantSnapPeas.description>
+
+  <RC2_PlantSnapPeasHydro.label>planta de ervilha</RC2_PlantSnapPeasHydro.label>
+  <RC2_PlantSnapPeasHydro.description>Vagens de sementes comestiveis, ervilhas são um lanche ou ingrediente favorito em todo mundo. Cresce melhor em regiões temperadas.</RC2_PlantSnapPeasHydro.description>    
+  
+  <RC2_PlantCucumber.label>planta de pepino</RC2_PlantCucumber.label>
+  <description>Pepinos são uma planta de cabaça mais conhecida por fazer picles deliciosos ou nojento. Eles também podem ser comidos crus, mas quem realmente faz isso? Prefere climas quentes e úmidos.</description>
+    		
+  <RC2_PlantCucumberHydro.label>planta de pepino</RC2_PlantCucumberHydro.label>
+  <RC2_PlantCucumberHydro.description>Pepinos são uma planta de cabaça mais conhecida por fazer picles deliciosos ou nojento. Eles também podem ser comidos crus, mas quem realmente faz isso? Prefere climas quentes e úmidos.</RC2_PlantCucumberHydro.description>
+  
+  <RC2_PlantSugarBeet.label>planta de beterraba sacarina</RC2_PlantSugarBeet.label>
+  <RC2_PlantSugarBeet.description>Uma planta curta com uma raiz amarela pálida. Embora certamente comestivel, é mais comumente usado para fazer açúcar de beterraba. Prefere climas mais frios a climas mais amenos.</RC2_PlantSugarBeet.description>
+  
+  <RC2_PlantSugarBeetHydro.label>planta de beterraba sacarina</RC2_PlantSugarBeetHydro.label>
+  <RC2_PlantSugarBeetHydro.description>Uma planta curta com uma raiz amarela pálida. Embora certamente comestivel, é mais comumente usado para fazer açúcar de beterraba. Prefere climas mais frios a climas mais amenos.</RC2_PlantSugarBeetHydro.description>
+
+	== Non-Food ==
+  
+  <RC2_PlantCoffee.label>arbusto de café</RC2_PlantCoffee.label>
+  <RC2_PlantCoffee.description>Café! Este grão é usado em todo o mundo por seu teor de cafeina e sabor delicioso (quando torrado e moido). Só pode ser cultivada em regiões áridas e por hidroponia. No entanto, cultivá-lo hidroponicamente requer uma habilidade maior do cultivador, e a planta não produz tantos grãos.</RC2_PlantCoffee.description>
+
+<RC2_PlantCoffeeHydro.label>arbusto de café</RC2_PlantCoffeeHydro.label>
+  <RC2_PlantCoffeeHydro.description>Caféé! Este grão é usado em todo o mundo por seu teor de cafeina e sabor delicioso (quando torrado e moido). Só pode ser cultivada em regiões áridas e por hidroponia. No entanto, cultivá-lo hidroponicamente requer uma habilidade maior do cultivador, e a planta não produz tantos grãos.</RC2_PlantCoffeeHydro.description>
+
+<RC2_PlantTea.label>arbusto de folha de chá</RC2_PlantTea.label>
+  <RC2_PlantTea.description>As folhas da planta do chá são usadas para fazer uma variedade de chás de ervas, dependendo de quando as folhas são colhidas e de como são processadas após a colheita. Cresce melhor em regiões tropicais, mas pode ser cultivada hidroponicamente com rendimento reduzido.</RC2_PlantTea.description>
+
+<RC2_PlantTeaHydro.label>arbusto de folha de chá</RC2_PlantTeaHydro.label>
+  <RC2_PlantTeaHydro.description>As folhas da planta do chá são usadas para fazer uma variedade de chás de ervas, dependendo de quando as folhas são colhidas e de como são processadas após a colheita. Cresce melhor em regiões tropicais, mas pode ser cultivada hidroponicamente com rendimento reduzido.</RC2_PlantTeaHydro.description>
+			
+			
+	== Fruits ==
+
+  <RC2_PlantMelon.label>planta de melão</RC2_PlantMelon.label>
+  <RC2_PlantMelon.description>Uma planta vinha que cresce ao longo do solo. Produz melões grandes e suculentos. Demora um pouco para crescer. Essa variedade cresce melhor em regiões tropicais e subtropicais.</RC2_PlantMelon.description>
+		
+  
+</LanguageData>
